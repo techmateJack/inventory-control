@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/techmateTristan/inventory-control#readme",
   "dependencies": {
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.2",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
     "node-couchdb": "^2.0.0"
